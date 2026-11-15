@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Add a Per-Group Average Column with GroupBy Transform](https://www.deep-ml.com/problems/1136) | easy | 2026-11-15 | [solution](problems/1136-add-a-per-group-average-column-with-groupby-transform) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-11-15 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
+| [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-15 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 
 ---
 
