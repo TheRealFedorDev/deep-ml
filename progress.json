@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:25:36.235Z",
+  "generated_at": "2026-11-16T18:31:40.558Z",
   "items": {
     "problem:1128": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-11-16T18:25:35.360Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-11-16T18:31:39.611Z",
+      "last_pushed_at": "2026-11-16T18:31:39.611Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
