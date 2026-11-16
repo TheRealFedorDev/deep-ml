@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 13 problems · 1 labs · 0 math
+**15** solved · 14 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-16 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-16 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-16 | [solution](problems/0003-reshape-matrix) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-16 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Select Rows and Columns with Boolean Masks](https://www.deep-ml.com/problems/2320) | easy | 2026-11-15 | [solution](problems/2320-select-rows-and-columns-with-boolean-masks) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-11-15 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
