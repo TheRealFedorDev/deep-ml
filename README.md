@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 23 problems · 1 labs · 0 math
+**25** solved · 24 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-16 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-16 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-16 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-11-17 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ## Labs
 
